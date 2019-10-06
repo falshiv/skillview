@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\viewless\\SoftUni\\C# Advanced\\Exercises\\Stacks and Queues\\10. Poisonous Plants\\10. Poisonous Plants.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\viewless\\SoftUni\\C# Advanced\\Exercises\\Stacks and Queues\\10. Poisonous Plants\\10. Poisonous Plants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\viewless\\SoftUni\\C# Advanced\\Exercises\\Stacks and Queues\\10. Poisonous Plants\\10. Poisonous Plants.csproj",
+        "projectName": "10. Poisonous Plants",
+        "projectPath": "D:\\Dev\\viewless\\SoftUni\\C# Advanced\\Exercises\\Stacks and Queues\\10. Poisonous Plants\\10. Poisonous Plants.csproj",
+        "packagesPath": "C:\\Users\\Viewless\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\viewless\\SoftUni\\C# Advanced\\Exercises\\Stacks and Queues\\10. Poisonous Plants\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Viewless\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
